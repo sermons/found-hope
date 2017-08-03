@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## One Foundation (5):
-# Consummation of Hope
+# Consummation <br/> of Hope
 
 <div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)

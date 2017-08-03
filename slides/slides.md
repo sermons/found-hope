@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## One Foundation (3):
-# Faith in Christ
+# Consummation of Hope
 
 <div class="ref">
 [(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)

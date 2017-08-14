@@ -26,4 +26,50 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" -->
 ## Week 5: Consummation of Hope
+1. Death
+1. Second Coming
+1. Resurrection
+1. Judgment
+1. Conclusion
 
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q4
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q5
+
+---
+## outline
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" -->
+(closing reading)
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" class="empty" -->

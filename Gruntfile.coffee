@@ -26,7 +26,7 @@ module.exports = (grunt) ->
 
     exec:
       phantom: 'chmod +x phantomjs'
-      print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
+      print: './phantomjs --debug=true decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
       thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg'
 
     copy:
@@ -74,8 +74,16 @@ module.exports = (grunt) ->
   # Generated grunt vars
   grunt.config.merge
     pkg:
-      shortname: '<%= pkg.name.replace(new RegExp(".*\/"), "") %>'
+      shortname: grunt.config('pkg.name').replace(/.*\//, '')
       commit: (process.env.TRAVIS_COMMIT || "testing").substr(0,7)
+    img: (id) ->
+      'https://sermons.seanho.com/img/' + id
+    bg: (id) ->
+      'data-background-image="' + grunt.config('img')("bg/" + id) + '"'
+    bible: (ref, text=ref, ver='NIV') ->
+      '[' + text + '](' +
+      'https://mobile.biblegateway.com/passage/?search=' +
+      ref.replace(/[^\w.:,-]+/g, '') + '&version=' + ver + ' "ref")'
 
   # Load all grunt tasks.
   require('load-grunt-tasks')(grunt)

@@ -9,7 +9,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# What is the eternal **hope** of the believer?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->

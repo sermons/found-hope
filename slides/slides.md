@@ -33,11 +33,56 @@
 1. Conclusion
 
 ---
+It is appointed for man to **die** once, <br/>
+and after that comes **judgment**
+
+[Hebrews 9:27 (ESV)](# "ref")
+
+>>>
++ with 2 **exceptions**!
+
+---
+Enoch **walked with God**, <br/>
+and he was **not**, for God took him.
+
+[Genesis 5:24 (ESV)](# "ref")
+
+Chariots of fire and horses of fire <br/>
+separated the two of them. <br/>
+And Elijah went up by a **whirlwind** into heaven.
+
+[II Kings 2:11 (ESV)](# "ref")
+
+>>>
++ All others died
+
+---
+Do not fear those who **kill** the **body** <br/>
+but **cannot** kill the **soul**.
+
+Rather, fear him who can  <br/>
+destroy **both** soul and body in **hell**.
+
+[Matthew 10:28 (ESV)](# "ref")
+
+>>>
++ soul + body **distinct**
++ body **mortal**
++ soul can be **destroyed** in hell
+  + not necc **annihilated**
+  + eternal **punishment**
+
+---
 <!-- .slide: data-background="white" -->
-# Q1
+# What is **death**?
+
+>>>
+what happens when we **die**?
 
 ---
 ## outline
+
+
 
 ---
 <!-- .slide: data-background="white" -->

@@ -61,7 +61,7 @@ And Elijah went up by a **whirlwind** into heaven.
 + One more exception, in future:
 
 ---
-<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
+<!-- .s: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 The Lord himself will **descend** from heaven [...]
 
 Then we who are **alive**, who are left, <br/>

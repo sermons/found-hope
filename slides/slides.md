@@ -266,7 +266,7 @@ why do we **want** justice?
 + **Believers**: *life* through the Son
 + The **Nations** / Powers: *broken* by the Son
 + The **Dead**: to *reward* and *destruction*
-+ **Satan** and the Angels: eternal *torment*
++ **Satan** and the Demons: eternal *torment*
 
 ---
 Christ **redeemed** us from the curse of the law <br/>
@@ -296,6 +296,13 @@ has set you **free** from the law of sin and **death**
 + 3-4 **condemned** sin in flesh
 + law's **requirement** met in us
   + live not by **flesh** but **Spirit**
+
+---
+## All Will Be Judged
++ Believers: *life* through the Son
++ **The Nations / Powers**: *broken* by the Son
++ The Dead: to *reward* and *destruction*
++ Satan and the Demons: eternal *torment*
 
 ---
 Ask of me, and I will make <br/>
@@ -329,6 +336,13 @@ and for **destroying** the **destroyers** of the earth.”
 + **dead** judged
 
 ---
+## All Will Be Judged
++ Believers: *life* through the Son
++ The Nations / Powers: *broken* by the Son
++ **The Dead**: to *reward* and *destruction*
++ Satan and the Demons: eternal *torment*
+
+---
 And I saw the **dead**, great and small, <br/>
 standing before the **throne**, <br/>
 and **books** were opened.
@@ -344,6 +358,13 @@ according to what they had **done**.
 
 >>>
 + **dead** judged
+
+---
+## All Will Be Judged
++ Believers: *life* through the Son
++ The Nations / Powers: *broken* by the Son
++ The Dead: to *reward* and *destruction*
++ **Satan and the Demons**: eternal *torment*
 
 ---
 <!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->

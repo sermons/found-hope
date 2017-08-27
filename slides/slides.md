@@ -270,21 +270,18 @@ and for **destroying** the **destroyers** of the earth.”
 + **dead** judged
 
 ---
-And I saw the dead, great and small,
-standing before the throne, and books were opened.
+And I saw the **dead**, great and small, <br/>
+standing before the **throne**, <br/>
+and **books** were opened.
 
-Then another book was opened, which is the book of life.
+Then another book was opened, <br/>
+which is the **book of life**.
 
-And the dead were judged by what was written in the books,
-according to what they had done.
+And the dead were **judged** <br/>
+by what was written in the books, <br/>
+according to what they had **done**.
 
-13
-And the sea gave up the dead who were in it,
-Death and Hades gave up the dead who were in them,
-and they were judged, each one of them,
-according to what they had done.
-
-[Revelation 10:12-13 (ESV)](# "ref")
+[Revelation 10:12 (ESV)](# "ref")
 
 >>>
 + **dead** judged

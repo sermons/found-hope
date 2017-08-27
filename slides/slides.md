@@ -28,11 +28,11 @@
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
 ## Week 5: Consummation of Hope
-1. Death
-1. Second Coming
-1. Resurrection
-1. Judgment
-1. Conclusion
+1. **Death**
+1. The **Second Coming** of Christ
+1. The **Resurrection**
+1. The **Judgment** of All
+1. **Eternity** and Conclusion
 
 ---
 It is appointed for man to **die** once, <br/>
@@ -88,7 +88,13 @@ destroy **both** soul and body in **hell**.
 # What happens when we **die**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+## Week 5: Consummation of Hope
+1. Death
+1. **The Second Coming of Christ**
+1. The Resurrection
+1. The Judgment of All
+1. Eternity and Conclusion
 
 >>>
 + second coming
@@ -106,14 +112,33 @@ that where **I am** you may be also.
 + when?
 
 ---
-Concerning that day and hour **no one** knows, <br/>
-not even the **angels** of heaven, <br/>
-nor the **Son**, but the **Father** only
+The day of the Lord will come like a **thief**, <br/>
+and then the heavens will **pass away** with a roar,
 
-[Matthew 24:36 (ESV)](# "ref")
+[...] and the earth and the **works** <br/>
+that are done on it will be **exposed**.
+
+[II Peter 3:10 (ESV)](# "ref")
 
 >>>
-+ Father: Creator, authority, eternal plan
++ **thief**: unawares
++ works **exposed**
++ but why hasn't it come **yet**?
+  + preceding verse:
+
+---
+The Lord is not **slow** to fulfill his promise <br/>
+as some count slowness,
+
+but is **patient** toward you,<br/>
+not wishing that any should **perish**, <br/>
+but that all should reach **repentance**.
+
+[II Peter 3:9 (ESV)](# "ref")
+
+>>>
++ not **procrastination** / dull / stupid
++ but **patience** that more may **repent**
 
 ---
 ## Signs of Christ's Return
@@ -132,10 +157,21 @@ nor the **Son**, but the **Father** only
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# **How** will Christ return?
+# **When**?
+
+>>>
++ don't know exact **hour**
++ but have **signs** of the times
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+## Week 5: Consummation of Hope
+1. Death
+1. The Second Coming of Christ
+1. **The Resurrection**
+1. The Judgment of All
+1. Eternity and Conclusion
 
 >>>
 + is death the **end**?
@@ -171,7 +207,13 @@ to the resurrection of **judgment**
 # Do we simply **disappear** after death?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+## Week 5: Consummation of Hope
+1. Death
+1. The Second Coming of Christ
+1. The Resurrection
+1. **The Judgment of All**
+1. Eternity and Conclusion
 
 >>>
 + judgment
@@ -311,7 +353,13 @@ day and night **forever** and ever.
 + unrighteous: no sacrifice left
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+## Week 5: Consummation of Hope
+1. Death
+1. The Second Coming of Christ
+1. The Resurrection
+1. The Judgment of All
+1. **Eternity and Conclusion**
 
 >>>
 + what will **eternity** be like?
@@ -380,11 +428,17 @@ the coming of the day of God
 + how do I live my life now in light of eternity?
 
 ---
-## outline
-
----
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
-(closing reading)
+Since all these things are thus to be **dissolved**,
+
+what **sort** of people ought you to be <br/>
+in lives of **holiness** and **godliness**,
+
+[12](# "ref")
+**waiting** for and **hastening** <br/>
+the coming of the day of God
+
+[II Peter 3:11-12 (ESV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> class="empty" -->

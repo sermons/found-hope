@@ -104,7 +104,7 @@ destroy **both** soul and body in **hell**.
 + second coming
 
 ---
-<!-- .s: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
 If I go and **prepare** a place for you, <br/>
 I will **come** again <br/>
 and will **take** you to myself, <br/>
@@ -117,7 +117,7 @@ that where **I am** you may be also.
 + when?
 
 ---
-<!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
+<!-- .s: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
 The day of the Lord will come like a **thief**, <br/>
 and then the heavens <br/>
 will **pass away** with a roar,
@@ -347,6 +347,7 @@ and for **destroying** the **destroyers** of the earth.”
 + Satan and the Demons: eternal *torment*
 
 ---
+<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 And I saw the **dead**, great and small, <br/>
 standing before the **throne**, <br/>
 and **books** were opened.

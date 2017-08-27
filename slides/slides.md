@@ -12,7 +12,7 @@
 # What is the eternal **hope** of the believer?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 ## One Foundation [(Elbing)](# "ref")
 1. **Creation** (who *God* is) [(wk 1)](# "ref")
 1. **Fall** (who *we* are) [(wk 2)](# "ref")
@@ -35,6 +35,7 @@
 1. **Eternity** and Conclusion
 
 ---
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
 It is appointed for man to **die** once, <br/>
 and after that comes **judgment**
 
@@ -44,14 +45,15 @@ and after that comes **judgment**
 + with 2 **exceptions**!
 
 ---
-Enoch **walked with God**, <br/>
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
+*Enoch* walked **with God**, <br/>
 and he was **not**, for God took him.
 
 [Genesis 5:24 (ESV)](# "ref")
 
-Chariots of fire and horses of fire <br/>
+Chariots of **fire** and horses of fire <br/>
 separated the two of them. <br/>
-And Elijah went up by a **whirlwind** into heaven.
+And *Elijah* went up by a **whirlwind** into heaven.
 
 [II Kings 2:11 (ESV)](# "ref")
 
@@ -59,6 +61,7 @@ And Elijah went up by a **whirlwind** into heaven.
 + One more exception, in future:
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 The Lord himself will **descend** from heaven [...]
 
 Then we who are **alive**, who are left, <br/>
@@ -68,6 +71,7 @@ in the **clouds** to meet the Lord in the air
 [I Thessalonians 4:16-17 (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Do not fear those who **kill** the **body** <br/>
 but **cannot** kill the **soul**.
 
@@ -88,7 +92,7 @@ destroy **both** soul and body in **hell**.
 # What happens when we **die**?
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. **The Second Coming of Christ**
@@ -100,6 +104,7 @@ destroy **both** soul and body in **hell**.
 + second coming
 
 ---
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
 If I go and **prepare** a place for you, <br/>
 I will **come** again <br/>
 and will **take** you to myself, <br/>
@@ -112,6 +117,7 @@ that where **I am** you may be also.
 + when?
 
 ---
+<!-- .slide: <%= bg("earth.jpg") %> -->
 The day of the Lord will come like a **thief**, <br/>
 and then the heavens <br/>
 will **pass away** with a roar,
@@ -128,6 +134,7 @@ that are done on it will be **exposed**.
   + preceding verse:
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 The Lord is not **slow** to fulfill his promise <br/>
 as some count slowness,
 
@@ -166,7 +173,7 @@ but that all should reach **repentance**.
 + but have **signs** of the times
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
@@ -178,6 +185,7 @@ but that all should reach **repentance**.
 + is death the **end**?
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Having a **hope** in God, [...] <br/>
 that there will be a **resurrection** <br/>
 of both the **just** and the **unjust**.
@@ -188,6 +196,7 @@ of both the **just** and the **unjust**.
 + just + unjust
 
 ---
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
 An **hour** is coming when <br/>
 all who are in the **tombs** <br/>
 will hear his **voice** and come **out**,
@@ -209,7 +218,7 @@ to the resurrection of **judgment**
 # Do we simply **disappear** <br/>after death?
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
@@ -221,6 +230,7 @@ to the resurrection of **judgment**
 + judgment
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 To those who by **patience** in **well-doing** <br/>
 seek for **glory** and honor and immortality, <br/>
 he will give **eternal life**;
@@ -238,6 +248,7 @@ there will be **wrath** and fury.
 according to his **works**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 The Lord will not **forsake** his people; <br/>
 he will not **abandon** his heritage;
 
@@ -255,9 +266,10 @@ why do we **want** justice?
 + **Believers**: *life* through the Son
 + The **Nations** / Powers: *broken* by the Son
 + The **Dead**: to *reward* and *destruction*
-+ **Satan** and the Angels: eternal *torment*
++ **Satan** and the Demons: eternal *torment*
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Christ **redeemed** us from the curse of the law <br/>
 by becoming a **curse** for us --
 
@@ -271,6 +283,7 @@ for it is written, <br/>
 + substitutionary sacrifice
 
 ---
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 Therefore, there is now **no condemnation** <br/>
 for those who are in Christ Jesus, <br/>
 [2](# "ref")
@@ -287,6 +300,14 @@ has set you **free** from the law of sin and **death**
   + live not by **flesh** but **Spirit**
 
 ---
+## All Will Be Judged
++ Believers: life through the Son
++ **The Nations / Powers**: *broken* by the Son
++ The Dead: to reward and destruction
++ Satan and the Demons: eternal torment
+
+---
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> -->
 Ask of me, and I will make <br/>
 the **nations** your heritage, <br/>
 and the ends of the **earth** your possession.
@@ -302,6 +323,7 @@ and **dash** them in pieces like a potter's vessel
 + authority to **judge** all nations
 
 ---
+<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 The **nations** raged, but your **wrath** came, <br/>
 and the time for the **dead** to be judged,
 
@@ -318,6 +340,14 @@ and for **destroying** the **destroyers** of the earth.”
 + **dead** judged
 
 ---
+## All Will Be Judged
++ Believers: life through the Son
++ The Nations / Powers: broken by the Son
++ **The Dead**: to *reward* and *destruction*
++ Satan and the Demons: eternal torment
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 And I saw the **dead**, great and small, <br/>
 standing before the **throne**, <br/>
 and **books** were opened.
@@ -335,6 +365,14 @@ according to what they had **done**.
 + **dead** judged
 
 ---
+## All Will Be Judged
++ Believers: life through the Son
++ The Nations / Powers: broken by the Son
++ The Dead: to reward and destruction
++ **Satan and the Demons**: eternal *torment*
+
+---
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
 The **devil** who had deceived them <br/>
 was thrown into the **lake** of **fire** and sulfur <br/>
 where the beast and the false prophet were,
@@ -357,7 +395,7 @@ day and night **forever** and ever.
 + unrighteous: no sacrifice left
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
@@ -369,6 +407,7 @@ day and night **forever** and ever.
 + what will **eternity** be like?
 
 ---
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
 Behold, the **dwelling** place of God is **with** man. <br/>
 He will dwell with them, <br/>
 and they will be his **people**, <br/>
@@ -378,9 +417,11 @@ and God himself will be with them as their **God**.
 
 >>>
 + heaven: to be **with** God
+  + no longer need **church**
 + relationship: **his** people / **our** God
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 He will wipe away every **tear** from their eyes, <br/>
 and **death** shall be no more, <br/>
 neither shall there be **mourning**, <br/>
@@ -394,6 +435,7 @@ for the **former** things have passed away.”
 + what of those who do **not** know God?
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 On those who do not **know** God and on those <br/>
 who do not **obey** the gospel of our Lord Jesus,
 
@@ -412,6 +454,7 @@ and from the **glory** of his might
 + so how **now** shall we live?
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 Since all these things are thus to be **dissolved**,
 
 what **sort** of people ought you to be <br/>

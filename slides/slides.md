@@ -135,9 +135,38 @@ nor the **Son**, but the **Father** only
 ---
 ## outline
 
+>>>
++ is death the **end**?
+
+---
+Having a **hope** in God, [...] <br/>
+that there will be a **resurrection** <br/>
+of both the **just** and the **unjust**.
+
+[Acts 24:15 (ESV)](# "ref")
+
+>>>
++ just + unjust
+
+---
+An **hour** is coming when all who are in the **tombs** <br/>
+will hear his **voice** and come **out**,
+
+those who have done **good**  <br/>
+to the resurrection of **life**,
+
+and those who have done **evil**  <br/>
+to the resurrection of **judgment**
+
+[John 5:28-29 (ESV)](# "ref")
+
+>>>
++ Jesus' authority to **judge** good/evil
++ &rArr; saved by **grace** alone
+
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do we simply **disappear** after death?
 
 ---
 ## outline

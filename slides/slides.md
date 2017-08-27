@@ -113,7 +113,8 @@ that where **I am** you may be also.
 
 ---
 The day of the Lord will come like a **thief**, <br/>
-and then the heavens will **pass away** with a roar,
+and then the heavens <br/>
+will **pass away** with a roar,
 
 [...] and the earth and the **works** <br/>
 that are done on it will be **exposed**.
@@ -142,22 +143,22 @@ but that all should reach **repentance**.
 
 ---
 ## Signs of Christ's Return
-+ Falling Away from Faith
++ **Falling** Away from Faith
  <%= bible('(2 Thes 2:2-3)') %>
   + "the *rebellion* comes first"
-+ Deeply Absorbed in World
++ Deeply **Absorbed** in World
  <%= bible('(Mt 24:37-39)') %>
   + "as in the days of *Noah*"
 + **Gospel** Preached to World
  <%= bible('(Mt 24:14)') %>
   + "as a a *testimony* to all nations"
 + **Grievous** Times
-  (<%= bible('2 Tim 3') %>, <%= bible('Mt 24:12') %>)
-  + "times of *difficulty*", "lovers of *self*"
+  <%= bible('(2 Tim 3)') %> <%= bible('(Mt 24:12)') %>
+  + "times of *difficulty*," "lovers of *self*"
 
 ---
 <!-- .slide: data-background="white" -->
-# **How** will Christ return?
+# **How** will <br/> Christ return?
 # **When**?
 
 >>>
@@ -187,7 +188,8 @@ of both the **just** and the **unjust**.
 + just + unjust
 
 ---
-An **hour** is coming when all who are in the **tombs** <br/>
+An **hour** is coming when <br/>
+all who are in the **tombs** <br/>
 will hear his **voice** and come **out**,
 
 those who have done **good** <br/>
@@ -204,7 +206,7 @@ to the resurrection of **judgment**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do we simply **disappear** after death?
+# Do we simply **disappear** <br/>after death?
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
@@ -253,7 +255,7 @@ why do we **want** justice?
 + **Believers**: *life* through the Son
 + The **Nations** / Powers: *broken* by the Son
 + The **Dead**: to *reward* and *destruction*
-+ **Satan** and the Angels:
++ **Satan** and the Angels: eternal *torment*
 
 ---
 Christ **redeemed** us from the curse of the law <br/>
@@ -285,7 +287,8 @@ has set you **free** from the law of sin and **death**
   + live not by **flesh** but **Spirit**
 
 ---
-Ask of me, and I will make the **nations** your heritage, <br/>
+Ask of me, and I will make <br/>
+the **nations** your heritage, <br/>
 and the ends of the **earth** your possession.
 
 [9](# "ref")
@@ -304,7 +307,8 @@ and the time for the **dead** to be judged,
 
 and for **rewarding** your servants, <br/>
 the prophets and **saints**, <br/>
-and those who **fear** your name, both small and great,
+and those who **fear** your name, <br/>
+both small and great,
 
 and for **destroying** the **destroyers** of the earth.”
 
@@ -345,7 +349,7 @@ day and night **forever** and ever.
 
 ---
 <!-- .slide: data-background="white" -->
-# How will the **faithful** be **judged**?
+# How will the **faithful** be judged?
 # The **unrighteous**?
 
 >>>
@@ -366,10 +370,17 @@ day and night **forever** and ever.
 
 ---
 Behold, the **dwelling** place of God is **with** man. <br/>
-He will dwell with them, and they will be his **people**, <br/>
+He will dwell with them, <br/>
+and they will be his **people**, <br/>
 and God himself will be with them as their **God**.
 
-[4](# "ref")
+[Revelation 21:3 (ESV) (p.1/2)](# "ref")
+
+>>>
++ heaven: to be **with** God
++ relationship: **his** people / **our** God
+
+---
 He will wipe away every **tear** from their eyes, <br/>
 and **death** shall be no more, <br/>
 neither shall there be **mourning**, <br/>
@@ -377,7 +388,7 @@ nor crying, nor **pain** anymore,
 
 for the **former** things have passed away.”
 
-[Revelation 21:3-4 (ESV)](# "ref")
+[Revelation 21:4 (ESV) (p.2/2)](# "ref")
 
 >>>
 + what of those who do **not** know God?

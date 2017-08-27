@@ -117,7 +117,7 @@ that where **I am** you may be also.
 + when?
 
 ---
-<!-- .s: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
+<!-- .slide: <%= bg("earth.jpg") %> -->
 The day of the Lord will come like a **thief**, <br/>
 and then the heavens <br/>
 will **pass away** with a roar,

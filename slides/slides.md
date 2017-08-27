@@ -90,7 +90,7 @@ destroy **both** soul and body in **hell**.
 # What happens when we **die**?
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. **The Second Coming of Christ**
@@ -168,7 +168,7 @@ but that all should reach **repentance**.
 + but have **signs** of the times
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
@@ -211,7 +211,7 @@ to the resurrection of **judgment**
 # Do we simply **disappear** <br/>after death?
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
@@ -359,7 +359,7 @@ day and night **forever** and ever.
 + unrighteous: no sacrifice left
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ

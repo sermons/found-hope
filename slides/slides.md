@@ -12,7 +12,7 @@
 # What is the eternal **hope** of the believer?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 ## One Foundation [(Elbing)](# "ref")
 1. **Creation** (who *God* is) [(wk 1)](# "ref")
 1. **Fall** (who *we* are) [(wk 2)](# "ref")
@@ -24,7 +24,7 @@
   1. **Consummation** [(wk 5)](# "ref")
 
 >>>
-unsplash-c333d6YEhi0-bible.jpg
+
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->

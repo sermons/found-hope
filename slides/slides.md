@@ -27,7 +27,7 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
-## Week 5: Consummation of Hope
+## Week 5: Consummation
 1. **Death**
 1. The **Second Coming** of Christ
 1. The **Resurrection**
@@ -89,7 +89,7 @@ destroy **both** soul and body in **hell**.
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
-## Week 5: Consummation of Hope
+## Week 5: Consummation
 1. Death
 1. **The Second Coming of Christ**
 1. The Resurrection
@@ -166,7 +166,7 @@ but that all should reach **repentance**.
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
-## Week 5: Consummation of Hope
+## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
 1. **The Resurrection**
@@ -208,7 +208,7 @@ to the resurrection of **judgment**
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
-## Week 5: Consummation of Hope
+## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
 1. The Resurrection
@@ -354,7 +354,7 @@ day and night **forever** and ever.
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
-## Week 5: Consummation of Hope
+## Week 5: Consummation
 1. Death
 1. The Second Coming of Christ
 1. The Resurrection

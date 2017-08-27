@@ -104,7 +104,7 @@ destroy **both** soul and body in **hell**.
 + second coming
 
 ---
-<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
+<!-- .s: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
 If I go and **prepare** a place for you, <br/>
 I will **come** again <br/>
 and will **take** you to myself, <br/>

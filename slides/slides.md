@@ -13,15 +13,15 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
-## One Foundation <span class="ref">(Elbing)</span>
-1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
-1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
+## One Foundation [(Elbing)](# "ref")
+1. **Creation** (who *God* is) [(wk 1)](# "ref")
+1. **Fall** (who *we* are) [(wk 2)](# "ref")
 1. **Redemption** (how we are *saved*)
-  1. Divine **Provision** <span class="ref">(wk 2)</span>
+  1. Divine **Provision** [(wk 2)](# "ref")
   1. Human **Response**
-    + **Faith** in Christ <span class="ref">(wk 3)</span>
-    + **Life** and Conduct <span class="ref">(wk 4)</span>
-  1. **Consummation** <span class="ref">(wk 5)</span>
+    + **Faith** in Christ [(wk 3)](# "ref")
+    + **Life** and Conduct [(wk 4)](# "ref")
+  1. **Consummation** [(wk 5)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
@@ -59,8 +59,8 @@ And Elijah went up by a **whirlwind** into heaven.
 ---
 The Lord himself will **descend** from heaven [...]
 
-Then we who are **alive**, who are left,  <br/>
-will be **caught up** together with them  <br/>
+Then we who are **alive**, who are left, <br/>
+will be **caught up** together with them <br/>
 in the **clouds** to meet the Lord in the air
 
 [I Thessalonians 4:16-17 (ESV)](# "ref")
@@ -69,7 +69,7 @@ in the **clouds** to meet the Lord in the air
 Do not fear those who **kill** the **body** <br/>
 but **cannot** kill the **soul**.
 
-Rather, fear him who can  <br/>
+Rather, fear him who can <br/>
 destroy **both** soul and body in **hell**.
 
 [Matthew 10:28 (ESV)](# "ref")
@@ -93,8 +93,8 @@ destroy **both** soul and body in **hell**.
 
 ---
 If I go and **prepare** a place for you, <br/>
-I will **come** again  <br/>
-and will **take** you to myself,  <br/>
+I will **come** again <br/>
+and will **take** you to myself, <br/>
 that where **I am** you may be also.
 
 [John 14:3 (ESV)](# "ref")
@@ -116,13 +116,13 @@ nor the **Son**, but the **Father** only
 ---
 ## Signs of Christ's Return
 + Falling Away from Faith
-  <%= bible('(2 Thes 2:2-3)') %>
+ <%= bible('(2 Thes 2:2-3)') %>
   + "the *rebellion* comes first"
 + Deeply Absorbed in World
-  <%= bible('(Mt 24:37-39)') %>
+ <%= bible('(Mt 24:37-39)') %>
   + "as in the days of *Noah*"
 + **Gospel** Preached to World
-  <%= bible('(Mt 24:14)') %>
+ <%= bible('(Mt 24:14)') %>
   + "as a a *testimony* to all nations"
 + **Grievous** Times
   (<%= bible('2 Tim 3') %>, <%= bible('Mt 24:12') %>)
@@ -152,10 +152,10 @@ of both the **just** and the **unjust**.
 An **hour** is coming when all who are in the **tombs** <br/>
 will hear his **voice** and come **out**,
 
-those who have done **good**  <br/>
+those who have done **good** <br/>
 to the resurrection of **life**,
 
-and those who have done **evil**  <br/>
+and those who have done **evil** <br/>
 to the resurrection of **judgment**
 
 [John 5:28-29 (ESV)](# "ref")
@@ -258,7 +258,7 @@ and **dash** them in pieces like a potter's vessel
 The **nations** raged, but your **wrath** came, <br/>
 and the time for the **dead** to be judged,
 
-and for **rewarding** your servants,  <br/>
+and for **rewarding** your servants, <br/>
 the prophets and **saints**, <br/>
 and those who **fear** your name, both small and great,
 

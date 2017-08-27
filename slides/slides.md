@@ -54,7 +54,16 @@ And Elijah went up by a **whirlwind** into heaven.
 [II Kings 2:11 (ESV)](# "ref")
 
 >>>
-+ All others died
++ One more exception, in future:
+
+---
+The Lord himself will **descend** from heaven [...]
+
+Then we who are **alive**, who are left,  <br/>
+will be **caught up** together with them  <br/>
+in the **clouds** to meet the Lord in the air
+
+[I Thessalonians 4:16-17 (ESV)](# "ref")
 
 ---
 Do not fear those who **kill** the **body** <br/>
@@ -74,15 +83,50 @@ destroy **both** soul and body in **hell**.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is **death**?
-
->>>
-what happens when we **die**?
+# What happens when we **die**?
 
 ---
 ## outline
 
+>>>
++ second coming
 
+---
+If I go and **prepare** a place for you, <br/>
+I will **come** again  <br/>
+and will **take** you to myself,  <br/>
+that where **I am** you may be also.
+
+[John 14:3 (ESV)](# "ref")
+
+>>>
++ prepare &rArr; coming &rArr; take up
++ when?
+
+---
+Concerning that day and hour **no one** knows, <br/>
+not even the **angels** of heaven, <br/>
+nor the **Son**, but the **Father** only
+
+[Matthew 24:36 (ESV)](# "ref")
+
+>>>
++ Father: Creator, authority, eternal plan
+
+---
+## Signs of Christ's Return
++ Falling Away from Faith
+  <%= bible('(2 Thes 2:2-3)') %>
+  + "the *rebellion* comes first"
++ Deeply Absorbed in World
+  <%= bible('(Mt 24:37-39)') %>
+  + "as in the days of *Noah*"
++ **Gospel** Preached to World
+  <%= bible('(Mt 24:14)') %>
+  + "as a a *testimony* to all nations"
++ **Grievous** Times
+  (<%= bible('2 Tim 3') %>, <%= bible('Mt 24:12') %>)
+  + "times of *difficulty*", "lovers of *self*"
 
 ---
 <!-- .slide: data-background="white" -->

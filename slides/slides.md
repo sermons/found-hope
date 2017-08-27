@@ -61,6 +61,7 @@ And Elijah went up by a **whirlwind** into heaven.
 + One more exception, in future:
 
 ---
+<!-- .slide: <%= bg("unsplash-ywtbSuCSjhM-sunbeam-valley.jpg") %> -->
 The Lord himself will **descend** from heaven [...]
 
 Then we who are **alive**, who are left, <br/>
@@ -70,6 +71,7 @@ in the **clouds** to meet the Lord in the air
 [I Thessalonians 4:16-17 (ESV)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Do not fear those who **kill** the **body** <br/>
 but **cannot** kill the **soul**.
 
@@ -337,6 +339,7 @@ according to what they had **done**.
 + **dead** judged
 
 ---
+<!-- .slide: <%= bg("unsplash-Of-NXuECJbE-portugal_forest_fire.jpg") %> -->
 The **devil** who had deceived them <br/>
 was thrown into the **lake** of **fire** and sulfur <br/>
 where the beast and the false prophet were,

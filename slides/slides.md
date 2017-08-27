@@ -6,10 +6,16 @@
 [(Workbook)](https://archive.org/details/catechismworkboo00unse "ref")
 
 >>>
++ **consummation**: cumulation, climax
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the eternal **hope** of the believer?
+# What is the <br/> eternal **hope** <br/> of the believer?
+
+>>>
++ yearn for **justice**
++ end to **suffering**
++ eternal **rest**
 
 ---
 <!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
@@ -24,6 +30,7 @@
   1. **Consummation** [(wk 5)](# "ref")
 
 >>>
++ plan of **redemption**
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
@@ -42,6 +49,8 @@ and after that comes **judgment**
 [Hebrews 9:27 (ESV)](# "ref")
 
 >>>
++ die **once**: not zero,
+  + not &ge;2, e.g., **reincarnation**
 + with 2 **exceptions**!
 
 ---
@@ -70,6 +79,10 @@ in the **clouds** to meet the Lord in the air
 
 [I Thessalonians 4:16-17 (ESV)](# "ref")
 
+>>>
++ if we are still **alive** when Christ returns
++ but death is not the **end**:
+
 ---
 <!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 Do not fear those who **kill** the **body** <br/>
@@ -86,10 +99,16 @@ destroy **both** soul and body in **hell**.
 + soul can be **destroyed** in hell
   + not necc **annihilated**
   + eternal **punishment**
++ God has **authority** over body + soul
 
 ---
 <!-- .slide: data-background="white" -->
 # What happens when we **die**?
+
+>>>
++ **sleep**
+  + but cf <%= bible('Lk16') %> Lazarus + rich man
++ await final **judgment**
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
@@ -101,7 +120,10 @@ destroy **both** soul and body in **hell**.
 1. Eternity and Conclusion
 
 >>>
-+ second coming
++ whether we **die** first
++ or are **alive** when He returns,
++ Christ will **return**
+  + <%= bible('Ac1:11') %> **ascension**: return in same manner
 
 ---
 <!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
@@ -113,8 +135,8 @@ that where **I am** you may be also.
 [John 14:3 (ESV)](# "ref")
 
 >>>
-+ prepare &rArr; coming &rArr; take up
-+ when?
++ **prepare** &rArr; coming &rArr; take up
++ **when**?
 
 ---
 <!-- .slide: <%= bg("earth.jpg") %> -->
@@ -128,7 +150,7 @@ that are done on it will be **exposed**.
 [II Peter 3:10 (ESV)](# "ref")
 
 >>>
-+ **thief**: unawares
++ **thief**: not at a time of our **convenience**
 + works **exposed**
 + but why hasn't it come **yet**?
   + preceding verse:
@@ -147,6 +169,7 @@ but that all should reach **repentance**.
 >>>
 + not **procrastination** / dull / stupid
 + but **patience** that more may **repent**
++ still, Jesus foretold **signs** of the end:
 
 ---
 ## Signs of Christ's Return
@@ -162,6 +185,9 @@ but that all should reach **repentance**.
 + **Grievous** Times
   <%= bible('(2 Tim 3)') %> <%= bible('(Mt 24:12)') %>
   + "times of *difficulty*," "lovers of *self*"
+
+>>>
++ more in Mt24-25
 
 ---
 <!-- .slide: data-background="white" -->
@@ -194,6 +220,9 @@ of both the **just** and the **unjust**.
 
 >>>
 + just + unjust
++ immortality of human **soul**
++ not **reincarnation** (die once)
++ God **decides** just vs unjust
 
 ---
 <!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
@@ -217,6 +246,9 @@ to the resurrection of **judgment**
 <!-- .slide: data-background="white" -->
 # Do we simply **disappear** <br/>after death?
 
+>>>
++ awake to **judgment**
+
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## Week 5: Consummation
@@ -227,7 +259,7 @@ to the resurrection of **judgment**
 1. Eternity and Conclusion
 
 >>>
-+ judgment
++ what will judgment **look** like?
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
@@ -244,8 +276,9 @@ there will be **wrath** and fury.
 [Romans 2:7-8 (ESV)](# "ref")
 
 >>>
-6 He will **render** to each one
-according to his **works**:
++ 6 He will **render** to each one
+  according to his **works**:
++ but why do we **want** justice?
 
 ---
 <!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
@@ -259,7 +292,10 @@ and all the upright in heart will **follow** it.
 [Psalm 94:14-15 (ESV)](# "ref")
 
 >>>
-why do we **want** justice?
++ upright **seek** justice on earth
+  + in **God's** hands, not our own
+  + **vengeance** belongs to God
++ what will justice **look** like?
 
 ---
 ## All Will Be Judged
@@ -306,6 +342,11 @@ has set you **free** from the law of sin and **death**
 + The Dead: to reward and destruction
 + Satan and the Demons: eternal torment
 
+>>>
++ not "all people" but
++ focus on earthly **powers** / authorities
+  + pride in **military**, money, science
+
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> -->
 Ask of me, and I will make <br/>
@@ -321,6 +362,7 @@ and **dash** them in pieces like a potter's vessel
 >>>
 + to the begotten **Son** of God
 + authority to **judge** all nations
++ v1 nations **rage** against God's authority
 
 ---
 <!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
@@ -337,7 +379,8 @@ and for **destroying** the **destroyers** of the earth.”
 [Revelation 11:18 (ESV)](# "ref")
 
 >>>
-+ **dead** judged
++ earthly powers **destroyed** weak
++ but will be destroyed in God's **justice**
 
 ---
 ## All Will Be Judged
@@ -359,10 +402,11 @@ And the dead were **judged** <br/>
 by what was written in the books, <br/>
 according to what they had **done**.
 
-[Revelation 10:12 (ESV)](# "ref")
+[Revelation 20:12 (ESV)](# "ref")
 
 >>>
-+ **dead** judged
++ v13 sea, **Hades** give up their dead
++ all **recorded** in God's books
 
 ---
 ## All Will Be Judged
@@ -384,6 +428,10 @@ day and night **forever** and ever.
 
 >>>
 + **Satan** judged
++ not **yin-yang** dualism
+  + God is **Creator**
+  + Christ is **victorious**
+  + God will **judge**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -391,8 +439,8 @@ day and night **forever** and ever.
 # The **unrighteous**?
 
 >>>
-+ faithful: Christ bore judgment
-+ unrighteous: no sacrifice left
++ faithful: **Christ** bore judgment
++ unrighteous: no **sacrifice** left
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
@@ -480,6 +528,8 @@ the coming of the day of God
 
 >>>
 + how do I live my life now in light of eternity?
++ **holy** + **reverent**
++ anticipating return: **hope** + **fear**
 
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->

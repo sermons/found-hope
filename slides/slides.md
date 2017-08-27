@@ -171,6 +171,68 @@ to the resurrection of **judgment**
 ---
 ## outline
 
+>>>
++ judgment
+
+---
+To those who by **patience** in **well-doing** <br/>
+seek for **glory** and honor and immortality, <br/>
+he will give **eternal life**;
+
+[8](# "ref")
+but for those who are **self-seeking** <br/>
+and do not obey the **truth**, <br/>
+but obey **unrighteousness**, <br/>
+there will be **wrath** and fury.
+
+[Romans 2:7-8 (ESV)](# "ref")
+
+>>>
+6 He will **render** to each one
+according to his **works**:
+
+---
+The Lord will not **forsake** his people; <br/>
+he will not **abandon** his heritage;
+
+[15](# "ref")
+for **justice** will return to the righteous, <br/>
+and all the upright in heart will **follow** it.
+
+[Psalm 94:14-15 (ESV)](# "ref")
+
+>>>
+why do we **want** justice?
+
+---
+Christ **redeemed** us from the curse of the law <br/>
+by becoming a **curse** for us --
+
+for it is written, <br/>
+“**Cursed** is everyone who is hanged on a **tree**”
+
+[Galatians 3:13 (ESV)](# "ref")
+
+>>>
++ quoting <%= bible('Dt 21:23') %>
++ substitutionary sacrifice
+
+---
+Therefore, there is now **no condemnation** <br/>
+for those who are in Christ Jesus, <br/>
+[2](# "ref")
+because through Christ Jesus
+
+the law of the **Spirit** who gives **life** <br/>
+has set you **free** from the law of sin and **death**
+
+[Romans 8:1-2 (ESV)](# "ref")
+
+>>>
++ 3-4 **condemned** sin in flesh
++ law's **requirement** met in us
+  + live not by **flesh** but **Spirit**
+
 ---
 <!-- .slide: data-background="white" -->
 # Q4

@@ -347,7 +347,7 @@ and for **destroying** the **destroyers** of the earth.”
 + Satan and the Demons: eternal *torment*
 
 ---
-<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 And I saw the **dead**, great and small, <br/>
 standing before the **throne**, <br/>
 and **books** were opened.

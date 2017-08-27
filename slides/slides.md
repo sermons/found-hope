@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## One Foundation (5):
 # Consummation <br/> of Hope
 
@@ -6,7 +6,6 @@
 [(Workbook)](https://archive.org/details/catechismworkboo00unse "ref")
 
 >>>
-unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg
 
 ---
 <!-- .slide: data-background="white" -->

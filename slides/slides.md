@@ -104,6 +104,7 @@ destroy **both** soul and body in **hell**.
 + second coming
 
 ---
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
 If I go and **prepare** a place for you, <br/>
 I will **come** again <br/>
 and will **take** you to myself, <br/>
@@ -116,6 +117,7 @@ that where **I am** you may be also.
 + when?
 
 ---
+<!-- .slide: <%= bg("unsplash-NuE8Nu3otjo-aurora.jpg") %> -->
 The day of the Lord will come like a **thief**, <br/>
 and then the heavens <br/>
 will **pass away** with a roar,
@@ -132,6 +134,7 @@ that are done on it will be **exposed**.
   + preceding verse:
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 The Lord is not **slow** to fulfill his promise <br/>
 as some count slowness,
 
@@ -182,6 +185,7 @@ but that all should reach **repentance**.
 + is death the **end**?
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 Having a **hope** in God, [...] <br/>
 that there will be a **resurrection** <br/>
 of both the **just** and the **unjust**.
@@ -192,6 +196,7 @@ of both the **just** and the **unjust**.
 + just + unjust
 
 ---
+<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
 An **hour** is coming when <br/>
 all who are in the **tombs** <br/>
 will hear his **voice** and come **out**,
@@ -225,6 +230,7 @@ to the resurrection of **judgment**
 + judgment
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 To those who by **patience** in **well-doing** <br/>
 seek for **glory** and honor and immortality, <br/>
 he will give **eternal life**;
@@ -242,6 +248,7 @@ there will be **wrath** and fury.
 according to his **works**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 The Lord will not **forsake** his people; <br/>
 he will not **abandon** his heritage;
 

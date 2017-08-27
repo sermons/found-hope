@@ -35,6 +35,7 @@
 1. **Eternity** and Conclusion
 
 ---
+<!-- .slide: <%= bg("unsplash-bSYRuzEaT5k-cemetery.jpg") %> -->
 It is appointed for man to **die** once, <br/>
 and after that comes **judgment**
 
@@ -44,6 +45,7 @@ and after that comes **judgment**
 + with 2 **exceptions**!
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 Enoch **walked with God**, <br/>
 and he was **not**, for God took him.
 

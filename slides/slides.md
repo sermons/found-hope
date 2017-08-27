@@ -196,7 +196,7 @@ of both the **just** and the **unjust**.
 + just + unjust
 
 ---
-<!-- .slide: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
+<!-- .s: <%= bg("Scott-Entrance_Garden_Tomb.jpg") %> -->
 An **hour** is coming when <br/>
 all who are in the **tombs** <br/>
 will hear his **voice** and come **out**,

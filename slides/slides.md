@@ -25,7 +25,6 @@
 
 >>>
 
-
 ---
 <!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
 ## Week 5: Consummation of Hope
@@ -304,14 +303,81 @@ day and night **forever** and ever.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# How will the **faithful** be **judged**?
+# The **unrighteous**?
+
+>>>
++ faithful: Christ bore judgment
++ unrighteous: no sacrifice left
 
 ---
 ## outline
 
+>>>
++ what will **eternity** be like?
+
+---
+Behold, the **dwelling** place of God is **with** man. <br/>
+He will dwell with them, and they will be his **people**, <br/>
+and God himself will be with them as their **God**.
+
+[4](# "ref")
+He will wipe away every **tear** from their eyes, <br/>
+and **death** shall be no more, <br/>
+neither shall there be **mourning**, <br/>
+nor crying, nor **pain** anymore,
+
+for the **former** things have passed away.”
+
+[Revelation 21:3-4 (ESV)](# "ref")
+
+>>>
++ what of those who do **not** know God?
+
+---
+On those who do not **know** God and on those <br/>
+who do not **obey** the gospel of our Lord Jesus,
+
+[9](# "ref")
+They will suffer the **punishment** <br/>
+of eternal **destruction**,
+
+away from the **presence** of the Lord <br/>
+and from the **glory** of his might
+
+[II Thessalonians 1:8-9 (ESV)](# "ref")
+
+>>>
++ both **absence** from God and
++ **presence** of eternal punishment
++ so how **now** shall we live?
+
+---
+Since all these things are thus to be **dissolved**,
+
+what **sort** of people ought you to be <br/>
+in lives of **holiness** and **godliness**,
+
+[12](# "ref")
+**waiting** for and **hastening** <br/>
+the coming of the day of God
+
+[II Peter 3:11-12 (ESV)](# "ref")
+
+>>>
++ not **giving up** / fatalism
++ not **indulgent** / hedonism
++ 14 be **diligent** to be found by him:
+  + without **spot** or blemish
+  + and at **peace**
+
 ---
 <!-- .slide: data-background="white" -->
-# Q5
+# What will **eternity** be like?
+# How does that impact us **now**?
+
+>>>
++ how do I live my life now in light of eternity?
 
 ---
 ## outline

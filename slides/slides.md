@@ -46,14 +46,14 @@ and after that comes **judgment**
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
-Enoch **walked with God**, <br/>
+*Enoch* walked **with God**, <br/>
 and he was **not**, for God took him.
 
 [Genesis 5:24 (ESV)](# "ref")
 
-Chariots of fire and horses of fire <br/>
+Chariots of **fire** and horses of fire <br/>
 separated the two of them. <br/>
-And Elijah went up by a **whirlwind** into heaven.
+And *Elijah* went up by a **whirlwind** into heaven.
 
 [II Kings 2:11 (ESV)](# "ref")
 
@@ -301,10 +301,10 @@ has set you **free** from the law of sin and **death**
 
 ---
 ## All Will Be Judged
-+ Believers: *life* through the Son
++ Believers: life through the Son
 + **The Nations / Powers**: *broken* by the Son
-+ The Dead: to *reward* and *destruction*
-+ Satan and the Demons: eternal *torment*
++ The Dead: to reward and destruction
++ Satan and the Demons: eternal torment
 
 ---
 <!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> -->
@@ -341,10 +341,10 @@ and for **destroying** the **destroyers** of the earth.”
 
 ---
 ## All Will Be Judged
-+ Believers: *life* through the Son
-+ The Nations / Powers: *broken* by the Son
++ Believers: life through the Son
++ The Nations / Powers: broken by the Son
 + **The Dead**: to *reward* and *destruction*
-+ Satan and the Demons: eternal *torment*
++ Satan and the Demons: eternal torment
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
@@ -366,9 +366,9 @@ according to what they had **done**.
 
 ---
 ## All Will Be Judged
-+ Believers: *life* through the Son
-+ The Nations / Powers: *broken* by the Son
-+ The Dead: to *reward* and *destruction*
++ Believers: life through the Son
++ The Nations / Powers: broken by the Son
++ The Dead: to reward and destruction
 + **Satan and the Demons**: eternal *torment*
 
 ---

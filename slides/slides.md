@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 ## One Foundation (5):
 # Consummation <br/> of Hope
 
@@ -12,7 +12,7 @@
 # What is the eternal **hope** of the believer?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 ## One Foundation <span class="ref">(Elbing)</span>
 1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
 1. **Fall** (who *we* are) <span class="ref">(wk 2)</span>
@@ -24,7 +24,7 @@
   1. **Consummation** <span class="ref">(wk 5)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
 ## Week 5: Consummation of Hope
 1. Death
 1. Second Coming
@@ -205,6 +205,13 @@ and all the upright in heart will **follow** it.
 why do we **want** justice?
 
 ---
+## All Will Be Judged
++ **Believers**: *life* through the Son
++ The **Nations** / Powers: *broken* by the Son
++ The **Dead**: to *reward* and *destruction*
++ **Satan** and the Angels:
+
+---
 Christ **redeemed** us from the curse of the law <br/>
 by becoming a **curse** for us --
 
@@ -234,6 +241,68 @@ has set you **free** from the law of sin and **death**
   + live not by **flesh** but **Spirit**
 
 ---
+Ask of me, and I will make the **nations** your heritage, <br/>
+and the ends of the **earth** your possession.
+
+[9](# "ref")
+You shall **break** them with a rod of iron <br/>
+and **dash** them in pieces like a potter's vessel
+
+[Psalm 2:8-9 (ESV)](# "ref")
+
+>>>
++ to the begotten **Son** of God
++ authority to **judge** all nations
+
+---
+The **nations** raged, but your **wrath** came, <br/>
+and the time for the **dead** to be judged,
+
+and for **rewarding** your servants,  <br/>
+the prophets and **saints**, <br/>
+and those who **fear** your name, both small and great,
+
+and for **destroying** the **destroyers** of the earth.”
+
+[Revelation 11:18 (ESV)](# "ref")
+
+>>>
++ **dead** judged
+
+---
+And I saw the dead, great and small,
+standing before the throne, and books were opened.
+
+Then another book was opened, which is the book of life.
+
+And the dead were judged by what was written in the books,
+according to what they had done.
+
+13
+And the sea gave up the dead who were in it,
+Death and Hades gave up the dead who were in them,
+and they were judged, each one of them,
+according to what they had done.
+
+[Revelation 10:12-13 (ESV)](# "ref")
+
+>>>
++ **dead** judged
+
+---
+The **devil** who had deceived them <br/>
+was thrown into the **lake** of **fire** and sulfur <br/>
+where the beast and the false prophet were,
+
+and they will be **tormented** <br/>
+day and night **forever** and ever.
+
+[Revelation 20:10 (ESV)](# "ref")
+
+>>>
++ **Satan** judged
+
+---
 <!-- .slide: data-background="white" -->
 # Q4
 
@@ -248,8 +317,8 @@ has set you **free** from the law of sin and **death**
 ## outline
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
 (closing reading)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> class="empty" -->

@@ -269,6 +269,7 @@ why do we **want** justice?
 + **Satan** and the Demons: eternal *torment*
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 Christ **redeemed** us from the curse of the law <br/>
 by becoming a **curse** for us --
 
@@ -282,6 +283,7 @@ for it is written, <br/>
 + substitutionary sacrifice
 
 ---
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 Therefore, there is now **no condemnation** <br/>
 for those who are in Christ Jesus, <br/>
 [2](# "ref")
@@ -305,6 +307,7 @@ has set you **free** from the law of sin and **death**
 + Satan and the Demons: eternal *torment*
 
 ---
+<!-- .slide: <%= bg("unsplash-URmkfvtK3Qw-freeway.jpg") %> -->
 Ask of me, and I will make <br/>
 the **nations** your heritage, <br/>
 and the ends of the **earth** your possession.
@@ -320,6 +323,7 @@ and **dash** them in pieces like a potter's vessel
 + authority to **judge** all nations
 
 ---
+<!-- .slide: <%= bg("Niedziella-Soeborg_Sword.jpg") %> -->
 The **nations** raged, but your **wrath** came, <br/>
 and the time for the **dead** to be judged,
 

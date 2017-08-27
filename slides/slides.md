@@ -407,6 +407,7 @@ day and night **forever** and ever.
 + what will **eternity** be like?
 
 ---
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
 Behold, the **dwelling** place of God is **with** man. <br/>
 He will dwell with them, <br/>
 and they will be his **people**, <br/>
@@ -416,9 +417,11 @@ and God himself will be with them as their **God**.
 
 >>>
 + heaven: to be **with** God
+  + no longer need **church**
 + relationship: **his** people / **our** God
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 He will wipe away every **tear** from their eyes, <br/>
 and **death** shall be no more, <br/>
 neither shall there be **mourning**, <br/>
@@ -432,6 +435,7 @@ for the **former** things have passed away.”
 + what of those who do **not** know God?
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 On those who do not **know** God and on those <br/>
 who do not **obey** the gospel of our Lord Jesus,
 
@@ -450,6 +454,7 @@ and from the **glory** of his might
 + so how **now** shall we live?
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 Since all these things are thus to be **dissolved**,
 
 what **sort** of people ought you to be <br/>

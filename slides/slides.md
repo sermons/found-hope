@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="title" -->
 ## One Foundation (5):
 # Consummation <br/> of Hope
 

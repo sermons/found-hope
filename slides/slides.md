@@ -33,7 +33,7 @@
 + plan of **redemption**
 
 ---
-<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-iTwmi4p4Q_c-forest_sunbeam.jpg") %> id="outline" class="outline" -->
 ## Week 5: Consummation
 1. **Death**
 1. The **Second Coming** of Christ
